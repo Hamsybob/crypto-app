@@ -1,0 +1,2 @@
+# config.py
+NEWS_API_KEY = "88424d6848b5481ab8dd2699a528c8b5"
